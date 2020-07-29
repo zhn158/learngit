@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index call stage.
 Git tracks change of file.
 Creating a new branch is quick.
+test for --no-ff
